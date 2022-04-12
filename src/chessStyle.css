@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.chessTable{
+    width: 800px;
+    margin: auto;    
+    
+}
+.cell {
+    height: 100px;
+    width: 100px;
+    border: 1px solid grey;
+   
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.red{
+  background-color: red;
+}
